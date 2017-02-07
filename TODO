@@ -1,0 +1,3 @@
+- Refactor rule system impl
+- Out-of-bounds checks
+- Access control
