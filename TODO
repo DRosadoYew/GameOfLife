@@ -1,3 +1,12 @@
-- Refactor rule system impl
-- Out-of-bounds checks
-- Access control
+- pod support
+- carthage suport
+- code cov banner
+
+- include demo project with UI
+- automated UI tests
+
+- update README to state that the intent is to have a framework that solves a known problem, as a way to try out what's common in every Swift framework's repo
+
+- refactor the implementation of the system of rules
+- out-of-bounds checks
+- adjust access control modifiers to expose only what's required for the consumers of the framework
