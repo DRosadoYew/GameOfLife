@@ -9,4 +9,4 @@ As a framework, no UI.
 Classic TDD approach.
 No test doubles.
 
-Check TODO file for pending tasks.
+Check [TODO](/TODO) file for pending tasks.
